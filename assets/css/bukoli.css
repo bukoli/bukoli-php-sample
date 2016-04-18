@@ -1,0 +1,21 @@
+.navbar-static-top {
+    margin-bottom: 19px;
+}
+
+.form-group.required .control-label:after {
+    content: " *";
+    color: red;
+}
+
+.btn-bukoli {
+    color: black;
+    background-color: #fcd602;
+    border-color: #fcd602;
+}
+.btn-bukoli:hover,
+.btn-bukoli:focus
+{
+    color: black;
+    background-color: #d8a001;
+    border-color: #d8a001;
+}

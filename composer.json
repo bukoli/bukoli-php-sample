@@ -1,0 +1,25 @@
+{
+  "name": "bukoli/bukoli-php-sample",
+  "type": "library",
+  "description": "Bukoli Php Sample",
+  "keywords": [
+    "bukoli",
+    "api",
+    "soap",
+    "sample"
+  ],
+  "authors": [
+    {
+      "name": "Utku Yıldırım",
+      "email": "utku.yildirim@mobillium.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "bukoli/bukoli-php": "~0.1"
+  },
+  "require-dev": {
+    "mockery/mockery": "~0.9",
+    "phpunit/phpunit": "~4.0"
+  }
+}
